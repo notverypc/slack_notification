@@ -2,7 +2,7 @@
 
 ## What does it do?
 
-Add this script to a Jamf Policy to get slack notification.
+Add this script to a Jamf Policy to get slack notification during a policy run.
 
 ## What do you need?
 
